@@ -1,17 +1,16 @@
-# todo_app
+# Todo App
 
-A new Flutter project.
+### This Flutter ToDo application uses BLoC " Cubit " for structured state management ,
+and SQFlite as a local database to store tasks.
+It allows users to create, done, and archive tasks.
+while keeping all data saved locally on the device.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#### 🖼️ Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Todo_App" 
+<p float="left">
+  <img src="Todo_App_Screenshots/Screenshot_1.jpg" width="180"/>
+  <img src="Todo_App_Screenshots/Screenshot_2.jpg" width="180"/>
+  <img src="Todo_App_Screenshots/Screenshot_3.jpg" width="180"/>
+  <img src="Todo_App_Screenshots/Screenshot_4.jpg" width="180"/>
+</p>
